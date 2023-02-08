@@ -1,11 +1,5 @@
-# co6f14249b468fa5fdd02f1f5
+# Simple BlackJack Game
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
 
 
 
